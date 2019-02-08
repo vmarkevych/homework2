@@ -1,0 +1,58 @@
+body{
+ background: #CCC; 
+}
+
+#Header a:hover
+{
+    color: #FFF;
+}
+
+#bg-img
+{
+    background: url('Images/pexels-photo-1069798.jpeg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+    box-shadow: 5px 5px 15px grey;
+
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .fa:hover {
+    opacity: 0.7;
+  }
+  #AboutData{
+   box-shadow:  5px 5px 15px 0 grey;
+
+  }
+  #About
+  {
+      margin-top: -200px;
+  }
+  #About .fa{
+      color: #FFF;
+  }
+  
+  #About span{
+      padding: 10px 20px 10px 20px;
+  }
+  
+  #About hr{
+      border-width: 3px;
+      margin-top: 06px;
+  }  
+  #Skills span{
+    padding: 10px 20px 10px 20px;
+
+  }
+
+  #Skills hr{
+    border-width: 3px;
+    margin-top: 06px;
+  }
